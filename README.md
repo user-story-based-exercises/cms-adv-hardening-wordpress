@@ -1,2 +1,2 @@
-# cms-adv-hardening-wordpress
-CMS | ADV | Hardening Wordpress
+# CMS | ADV | Hardening Wordpress
+
