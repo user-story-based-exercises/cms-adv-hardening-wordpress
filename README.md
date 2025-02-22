@@ -36,7 +36,7 @@
 - A dedicated user for accessing the database with WordPress exists
 
 ## User Story 6
-*As a Developer I want to secure the main WordPress administration files, so that attacks targeting these files are harder."
+*As a Developer I want to secure the main WordPress administration files, so that attacks targeting these files are harder.*
 
 ### Acceptance Criteria
 - wp-admin is secured
@@ -44,13 +44,13 @@
 - wp-config is secured
 
 ## User Story 7
-*As a Developer I want to disable file editing via the backend, so that code cannot be injected via the backend."
+*As a Developer I want to disable file editing via the backend, so that code cannot be injected via the backend.*
 
 ### Acceptance Criteria
 - File editing is disabled
 
 ## User Story 8
-*As a Developer I want to rename my administrator account, so that attacks using the default username fail."
+*As a Developer I want to rename my administrator account, so that attacks using the default username fail.*
 
 ### Acceptance Criteria
 - The WordPress administrative account is named differently than "admin"
