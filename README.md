@@ -17,25 +17,18 @@
 - Security measures have been implemented and are active
 
 ## User Story 3
-*As a Developer I have set up a SFTP connection to my website, so that I can securely transfer files.*
-
-### Acceptance Criteria
-- An SFTP connection to the website can be established with a tool of the developers choice
-- The SFTP connection uses public and private keys
-
-## User Story 4
 *As a Developer I have checked (and if necessary fixed) the file permissions on my site, so that unauthorized access can be prevented.*
 
 ### Acceptance Criteria
 - The file permissions of the site are reviewed and set correctly
 
-## User Story 5
+## User Story 4
 *As a Developer I want to have WordPress access the database with a dedicated user, so that a breach in security doesn't compromise on all other databases on my server.*
 
 ### Acceptance Criteria
 - A dedicated user for accessing the database with WordPress exists
 
-## User Story 6
+## User Story 5
 *As a Developer I want to secure the main WordPress administration files, so that attacks targeting these files are harder.*
 
 ### Acceptance Criteria
@@ -43,13 +36,13 @@
 - wp-includes is secured
 - wp-config is secured
 
-## User Story 7
+## User Story 6
 *As a Developer I want to disable file editing via the backend, so that code cannot be injected via the backend.*
 
 ### Acceptance Criteria
 - File editing is disabled
 
-## User Story 8
+## User Story 7
 *As a Developer I want to rename my administrator account, so that attacks using the default username fail.*
 
 ### Acceptance Criteria
